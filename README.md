@@ -1,3 +1,7 @@
+# ARCHIVED
+
+This repo has been archived and is no longer maintained. We recommend using the Slack tools available in [gptscript-ai/integrations](https://github.com/gptscript-ai/integrations).
+
 # slack
 
 This is a GPTScript tool for interacting with Slack workspaces. It can search for messages, and list the channels and users in the workspace.
